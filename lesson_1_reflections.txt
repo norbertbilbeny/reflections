@@ -1,0 +1,32 @@
+Since bugs necessarily come from changes,
+all bugs are necessarily located in changed lines.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+if you realise a change you made a long time ago lead to
+a dead end, it would be far easier going back than 
+starting from scratch.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros: control, organic sense.
+cons: you may forget to do it.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+The unit on Git is multiple file software
+whereas on Google Docs, it's single file documents.
+
+How can you use the commands git log and git diff to view the history of files?
+
+By going to the directory where the repository is,
+and simply entering those two commands.
+
+How might using version control make you more confident to make changes that could break something?
+
+You can always go back and revert fuckups.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Perhaps making wilder changes to API samples or other
+code found online.
