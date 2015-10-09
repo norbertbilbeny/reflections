@@ -11,3 +11,18 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 If changes in more than one file are necessary 
 for a full single logical change, the stating area helps.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+trying out versions and experimenting with safety.
+
+How do the diagrams help you visualize the branch structure?
+they are tree-like structures.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+they transform into one in an intelligent way.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: no fuckups, conservative.
+cons: more work.
